@@ -3,7 +3,7 @@
  *
  * - If you are a OneDrive International user, you would not have to change anything here.
  * - If you are not the admin of your OneDrive for Business account, you may need to define your own clientId/clientSecret,
- *   check documentation for more details.
+ *   check documentation for more details..
  * - If you are using a E5 Subscription OneDrive for Business account, the direct links of your files are not the same here.
  *   In which case you would need to change directLinkRegex.
  */
